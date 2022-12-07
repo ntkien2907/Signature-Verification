@@ -21,7 +21,6 @@
 ---
 ### Further Readings
 Read these papers to have a clear scenario about Siamese Network and what I have implemented in this project.
-* [Gregory Koch, Richard Zemel, and Ruslan Salakhutdinov. "Siamese Neural Networks for One-shot Image Recognition". In ICML, 2015.](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf)
 * [Sounak Deya, Anjan Duttaa, J. Ignacio Toledoa, Suman K.Ghosha, Josep Llados, and Umapada Pal. "SigNet: Convolutional Siamese Network for Writer Independent Offline Signature Verification". In CVPR, 2017.](https://arxiv.org/abs/1707.02131)
 
 ---
